@@ -1,0 +1,12 @@
+[Variables]
+ activeVariant=1
+ activeStyle=light
+ light1=000000
+ light2=000000
+ light3=000000
+ light4=000000
+ dark1=000000
+ dark2=000000
+ dark3=000000
+ dark4=000000
+ luminance=0.0
