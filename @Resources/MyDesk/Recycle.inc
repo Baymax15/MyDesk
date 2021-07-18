@@ -1,0 +1,2 @@
+[Variables]
+ variant=#activeVariant#
